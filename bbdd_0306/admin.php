@@ -13,7 +13,8 @@ echo"<table border=2><th>nombre_usu</th><th>pass</th><th>nom</th><th>dpt</th>";
     }
     echo "</table>";
 }
-//semper invicta
+//Semper Invicta
+//DeusVult
 ?>
 <a href="crearUsr.php">crear usu</a>
 <a href="deletUsr.php">delete usu</a>
